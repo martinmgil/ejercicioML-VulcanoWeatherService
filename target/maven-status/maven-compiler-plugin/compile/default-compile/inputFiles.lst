@@ -1,0 +1,10 @@
+C:\workspace\VulcanoGalaxyWeatherService\src\ar\com\vulcano\weather\service\GAEJCronServlet.java
+C:\workspace\VulcanoGalaxyWeatherService\src\ar\com\vulcano\weather\service\VulcanoGalaxyWeatherServiceServlet.java
+C:\workspace\VulcanoGalaxyWeatherService\src\ar\com\vulcano\weather\service\converter\WeatherReportConverter.java
+C:\workspace\VulcanoGalaxyWeatherService\src\ar\com\vulcano\weather\service\dao\JDBCConectionUtil.java
+C:\workspace\VulcanoGalaxyWeatherService\src\ar\com\vulcano\weather\service\rest\impl\WeatherResource.java
+C:\workspace\VulcanoGalaxyWeatherService\src\ar\com\vulcano\weather\service\model\WeatherReport.java
+C:\workspace\VulcanoGalaxyWeatherService\src\ar\com\vulcano\weather\service\dao\WeatherReportDao.java
+C:\workspace\VulcanoGalaxyWeatherService\src\ar\com\vulcano\weather\service\businessService\WeatherReportBusiness.java
+C:\workspace\VulcanoGalaxyWeatherService\src\ar\com\vulcano\weather\service\dao\ConnectionUtil.java
+C:\workspace\VulcanoGalaxyWeatherService\src\ar\com\vulcano\weather\service\job\WeatherReportJob.java

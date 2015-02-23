@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+	<cron>
+		<url>/cron/populatejob</url>
+		<description>Cron Job that populates Data Base.</description>
+		<schedule>1st monday of jan 23:00</schedule>
+	</cron>
+</cronentries>
